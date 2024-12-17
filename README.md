@@ -1,5 +1,5 @@
 # Basic ROS2 Talker and Listener Program
-
+Hey Rookies !
 This repository contains a simple ROS2 publisher (talker) and subscriber (listener) program designed to help you learn the basics of ROS2 node communication.
 
 ## Getting Started
@@ -49,6 +49,10 @@ You should now see the talker node publishing messages and the listener node rec
 ## Contributing
 Feel free to submit issues or pull requests to improve this example or add new features.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+##Contact
+**Karthikesh J G**
+CEO & FOUNDER 
+**Karthikesh Robotics Private Limited**
+
+www.karthikeshrobotics.in
 
