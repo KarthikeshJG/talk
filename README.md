@@ -1,7 +1,7 @@
 # talk
 Basic ROS2 Talker and Listener Program to  learn.
 
-**Step - 1**
+**Step-1**
 Create a Workspace 
 mkdir -p ~/ros2_ws/src
 
